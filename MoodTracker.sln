@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodTracker", "MoodTracker.csproj", "{37E1F77D-A919-4B43-B6E1-D6B3F724C8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E1F77D-A919-4B43-B6E1-D6B3F724C8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E1F77D-A919-4B43-B6E1-D6B3F724C8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E1F77D-A919-4B43-B6E1-D6B3F724C8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E1F77D-A919-4B43-B6E1-D6B3F724C8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C2C1EF-3235-4AB4-8C0B-744D5AC3BFA9}
+	EndGlobalSection
+EndGlobal
